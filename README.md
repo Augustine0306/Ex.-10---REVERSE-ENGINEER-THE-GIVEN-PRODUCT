@@ -31,10 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/Augustine0306/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119404460/2baabc9a-0846-45c3-9c0f-c6ca5b986f69)
+![image](https://github.com/Augustine0306/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119404460/bf3815d2-be3f-4ca6-8742-557b03fef58b)
+
 
 ### Output:
-![image](https://github.com/Augustine0306/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119404460/89e33baa-7279-41a2-9cc5-c7547bf6d25a)
+![image](https://github.com/Augustine0306/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119404460/bf156007-2cf0-4cc7-9dc4-0c8a84fb887f)
+![image](https://github.com/Augustine0306/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119404460/d1277448-aa1b-4907-81b5-4e5db4dd506a)
+
 
 
 ### Name:AUGUSTINE J 
